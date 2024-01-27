@@ -1,7 +1,7 @@
-import one from "../assets/tailored/one.jpg";
-import two from "../assets/tailored/two.png";
-import three from "../assets/tailored/three.avif";
-import four from "../assets/tailored/four.jpg";
+import one from "../assets/tailored/one.webp";
+import two from "../assets/tailored/two.webp";
+import three from "../assets/tailored/three.webp";
+import four from "../assets/tailored/four.webp";
 
 export default function Tailored() {
   return (

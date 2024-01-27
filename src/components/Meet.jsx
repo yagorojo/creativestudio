@@ -1,6 +1,6 @@
-import person0 from "../assets/meet/person0.png"
-import person1 from "../assets/meet/person1.png"
-import person2 from "../assets/meet/person2.png"
+import person0 from "../assets/meet/person0.webp"
+import person1 from "../assets/meet/person1.webp"
+import person2 from "../assets/meet/person2.webp"
 
 
 export default function Meet() {

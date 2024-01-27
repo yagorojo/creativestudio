@@ -1,6 +1,6 @@
-import one from "../assets/projects/one.jpg";
-import two from "../assets/projects/two.jpg";
-import three from "../assets/projects/three.jpg";
+import one from "../assets/projects/one.webp";
+import two from "../assets/projects/two.webp";
+import three from "../assets/projects/three.webp";
 import { IconArrowUpRight } from "@tabler/icons-react";
 
 export default function Projects() {
