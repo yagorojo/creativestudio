@@ -15,20 +15,20 @@ export default function Footer() {
         <div>
           <div className="flex gap-10 lg:gap-14">
             <ul className="flex-col flex gap-4">
-              <div className="text-sm">Main pages</div>
+              <div className="text-sm text-dim">Main pages</div>
               <li>Home</li>
               <li>About</li>
               <li>Pricing</li>
               <li>Contact</li>
             </ul>
             <ul className="flex-col flex gap-4">
-              <div className="text-sm">CMS Pages</div>
+              <div className="text-sm text-dim">CMS Pages</div>
               <li>Projects</li>
               <li>Careers</li>
               <li>Blog</li>
             </ul>
             <ul className="flex-col flex gap-4">
-              <div className="text-sm">Utility</div>
+              <div className="text-sm text-dim">Utility</div>
               <li>Cookies</li>
               <li>Privacy Policy</li>
               <li>FAQ</li>

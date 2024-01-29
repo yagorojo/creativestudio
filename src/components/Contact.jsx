@@ -20,7 +20,7 @@ export default function Contact() {
             placeholder="Email"
             className="px-6 py-4 rounded-xl text-xl w-full border"
           />
-          <button className="mt-6 bg-acc py-3 rounded-full">Submit</button>
+          <button className="mt-6 bg-acc py-3 rounded-full text-white transition-transform hover:-translate-y-2">Submit</button>
         </div>
       </div>
     </div>

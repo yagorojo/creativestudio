@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'bg': "#f9f6f1",
-        'bg2': "#efece8",
+        'bg': "#fbf6ef",
+        'bg2': "#ead7c3",
         'dim': '#555555',
-        'acc': '#60C7F5'
+        'acc': '#f8d249'
       },
       fontFamily: {
         'nunito': ["Nunito", "system-ui", "sans-serif"]

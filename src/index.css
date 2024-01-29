@@ -76,14 +76,6 @@
   }
 }
 
-@media (max-width: 991px) {
-
-}
-
-.slider {
-  animation: slider infinite 15s linear;
-}
-
 .hero-bubble {
   position: relative;
   min-width: 50px;
@@ -93,13 +85,4 @@
   border: 4px solid white;
   border-radius: 1.5rem;
   bottom: -5px;
-}
-
-@keyframes slider {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
 }

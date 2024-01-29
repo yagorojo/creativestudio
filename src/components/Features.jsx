@@ -37,7 +37,7 @@ export default function Features() {
         {features.map((feature) => (
           <div
             key={feature.title}
-            className="flex flex-col justify-between gap-[4rem] p-10 border rounded-3xl hover:text-white hover:bg-acc"
+            className="flex flex-col justify-between gap-[4rem] p-10 rounded-3xl hover:text-black text-dim hover:bg-amber-200 bg-bg transition-colors"
           >
             <div className="max-w-[400px] text-lg">{feature.desc}</div>
             <div className="self-center">{feature.icon}</div>
